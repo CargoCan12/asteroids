@@ -26,5 +26,3 @@ class CircleShape(pygame.sprite.Sprite):
             return True
         return False
     
-    
-    
